@@ -9,13 +9,13 @@ function clickButton(elemento, texto){
     elemento.innerHTML = texto;
 };
 
-/*
+
 const tagP = document.querySelector('p');
 const button = document.querySelector('button');
 const input = document.querySelector('input');
 const img = document.querySelector('img');
 
-
+/*
 tagP.onmouseover = function(){
     tagP.style.color = "red";
    
